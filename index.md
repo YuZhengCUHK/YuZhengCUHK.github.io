@@ -23,13 +23,13 @@ Before CUHK, I ([CV](https://drive.google.com/file/d/1ZYUhYFgZWzDcV78fCbImQx2Opy
 
 ## Internship & Experience
 
-> Jul '18 - Aug '18 : Summer workshop of computing at NUS
+> Jul '18 - Aug '18 : Summer workshop of computing at NUS, Singapore
 
-> Mar '18 - May '18 : Research intern at CUHK
+> Mar '18 - May '18 : Research intern at CUHK, Hong Kong
 
-> Mar '16 - Sep '17 : Undergrad Project in NEU
+> Mar '16 - Sep '17 : Undergrad Project in NEU, China
 
-> Aug '17 - Aug '17 : International student program at Toyohashi University of Technology
+> Aug '17 - Aug '17 : International student program at Toyohashi University of Technology, Japan
 
 
 ## External Reviewer
