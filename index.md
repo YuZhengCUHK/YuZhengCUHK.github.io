@@ -46,9 +46,9 @@ Before CUHK, I ([CV](https://drive.google.com/file/d/1ZYUhYFgZWzDcV78fCbImQx2Opy
 
 ## Course Enrolled
 
->'18 F: IERG 5130 Probability Models of Learning, ENGG 5383 Applied Cryptography
+>'18 F: IERG5130 Probability Models of Learning, ENGG5383 Applied Cryptography
 
->'19 S: CSCI 5590 Advanced Topics in Blockchain, ELEG 5491 Introduction to Deep Learning
+>'19 S: CSCI5590 Advanced Topics in Blockchain, ELEG5491 Introduction to Deep Learning
 
 ## Award
 
