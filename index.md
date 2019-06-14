@@ -13,7 +13,7 @@ Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engi
 |  privacy     | multimedia        | ringCT|
 |  GAN         | image search      | none  |
 | none         | none              | none  |
-| non          | none              | none  |
+| none         | none              | none  |
 
 ## Publication
 
