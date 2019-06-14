@@ -1,123 +1,73 @@
 ---
 layout: default
 ---
+I am a 1<sup>st</sup> year _Ph.D._ student in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/).
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN).
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Research Interest
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
+| Machine Learning | Searchable Encryption  | Blockchain |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|  privacy     | multimedia        | ringCT|
+|  GAN         | image search      | none  |
+| none         | none              | none  |
+| non          | none              | none  |
 
-### There's a horizontal rule below this.
+## Publication
 
-* * *
+*  Chong Fu, **Yu Zheng**, Min Chen, and Zhan-kao Wen.“A color image encryption algorithm using a new 1-D chaotic map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-### Here is an unordered list:
+*  Chong Fu, **Yu Zheng**, Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” (Chinese Patent)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+## Internship & Experience
 
-### And an ordered list:
+> Jul '18 - Aug '18 : Summer workshop of computing at NUS
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+> Mar '18 - May '18 : Research intern at CUHK
 
-### And a nested list:
+> Mar '16 - Sep '17 : Undergrad Project in NEU
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+> Aug '17 - Aug '17 : International student program at Toyohashi University of Technology
 
 
-### Definition lists can be used with HTML syntax.
+## External Reviewer
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+>   '19 : Crypto, ISC, ESORICS, SecureComm, IEEE-TIFS
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+>   '18 : SecureComm
 
-```
-The final element.
-```
+## Teaching Assistant
+
+> Jan '19 - Apr '19 : IERG4130 Introduction to Cyber Security by Kehuan Zhang
+
+> Sep '18 - Dec '18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
+
+## Course Enrolled
+
+>'18 F: IERG5130 Probability Models of Learning, ENGG 5383 Applied Cryptography
+
+>'19 S: CSCI 5590 Advanced Topics in Blockchain, ELEG 5491 Introduction to Deep Learning
+
+## Award
+
+> Jun '18 Outstanding Project for Bachelor degree of NEU 
+
+> Dec '17 Excellent Graduate of Liaoning Province
+
+> Apr '17 Honorable Mention of American Mathematical Contest in 
+Modeling
+
+> Dec '16 Second Prize of National Undergraduate Mathematical Contest in Modeling 
+
+> Nov '16 National Scholarship of China (Amount: 8000 Chinese yuan)
+
+> Aug '16 Third Prize of National Undergraduate Information Security Competition 
+
+> Nov '15 National Scholarship of China
+
+## Language
+
+Mandarin (Native), English (Basic), C, MATLAB, C++, Python, java, HTML...
+

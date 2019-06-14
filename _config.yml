@@ -1,5 +1,9 @@
 title: Hacker theme
 description: Hacker is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+show_downloads: false
+github:
+  is_project_page: false
+google_analytics: 
 theme: jekyll-theme-hacker
+title: [Janyew Y. Zheng]
+description: [A Ph.D. student @CUHK. Email zy018@ie.cuhk.edu.hk]
