@@ -29,7 +29,7 @@ Before CUHK, I ([CV](https://drive.google.com/file/d/1ZYUhYFgZWzDcV78fCbImQx2Opy
 
 > Mar '16 - Sep '17 : Undergrad Project in NEU, China
 
-> Aug '17 - Aug '17 : International student program at Toyohashi University of Technology, Japan
+> Aug '17 - Aug '17 : International student program at TUT, Japan
 
 
 ## External Reviewer
