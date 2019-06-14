@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-I am a 1<sup>st</sup> year _Ph.D._ student in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/).
+I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/).
 
-Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN).
+Before CUHK, I ([CV](https://drive.google.com/file/d/1ZYUhYFgZWzDcV78fCbImQx2OpyNK6G8k/view?usp=sharing)) received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN).
 
 
 ## Research Interest
@@ -70,4 +70,6 @@ Modeling
 ## Language
 
 Mandarin (Native), English (Basic), C, MATLAB, C++, Python, java, HTML...
+
+#### Last updated: Jun 2019
 
