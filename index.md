@@ -18,7 +18,7 @@ layout: default
 
 *  **Yu Zheng**, Sherman S. M. Chow, Minxin Du, and Chong Fu.“Searchable encryption.” Under review. 
 
-*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen.“A color image encryption algorithm using a new 1-D chaotic map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
+*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen.“A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
 *  Chong Fu, **Yu Zheng**, Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent.
 
