@@ -10,9 +10,8 @@ layout: default
 | Machine Learning | Searchable Encryption  | Blockchain |
 |:-------------|:------------------|:------|
 |  privacy     | multimedia        | ringCT|
-|  GAN         | image search      | none  |
-| none         | none              | none  |
-| none         | none              | none  |
+|  GAN         | image search      |       |
+|              |                   |       |
 
 ## Publication
 
@@ -70,7 +69,7 @@ Modeling
 
 ## Language
 
-Mandarin (Native), English (Basic), C, MATLAB, C++, Python, java, LaTeX, HTML...
+Mandarin (Native), English (Basic), C, MATLAB, C++, Python, Java, LaTeX, HTML...
 
 #### Last updated: June 2019
 
