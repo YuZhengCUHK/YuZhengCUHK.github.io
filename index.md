@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <img src="/assets/images/me.png" width="1000"> | I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
+| <img src="/assets/images/me.png" width="900"> |I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
 |                 |                       |
 
 ## Research Interest
@@ -52,7 +52,7 @@ layout: default
 
 > Jun 18 Outstanding Project for Bachelor degree of NEU 
 
-> Dec 17 Excellent Graduate of Liaoning Province
+> Dec 17 Excellent Graduate of Liaoning Province, China
 
 > Apr 17 Honorable Mention of American Mathematical Contest in 
 Modeling
@@ -68,6 +68,11 @@ Modeling
 ## Language
 
 Mandarin (Native), English (Basic), C, MATLAB, C++, Python, Java, LaTeX, HTML...
+
+## Another Look
+-	I like jogging, swimming, criminal psychology, criminal investigation, reading, and cooking.
+-	知世故，不世故。
+-	红尘陌上，独自前行；但尽人事，莫问前程。
 
 #### Last updated: June 2019
 
