@@ -2,14 +2,14 @@
 layout: default
 ---
 
-| <img src="/assets/images/me.png" width="900"> |I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
+| <img src="/assets/images/me.png" width="900"> |I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU), advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
 |                 |                       |
 
 ## Research Interest
 
 | Machine Learning | Searchable Encryption  | Blockchain |
 |:-------------|:------------------|:------|
-|  privacy     | multimedia        | ringCT|
+|  privacy     | multimedia        | ring signatures|
 |  GAN         | image search      |       |
 |              |                   |       |
 
@@ -17,7 +17,7 @@ layout: default
 
 *  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-*  Chong Fu, **Yu Zheng**, Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent.
+*  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent.
 
 ## Internship & Experience
 
@@ -25,7 +25,7 @@ layout: default
 
 > Mar 18 - May 18 : Research intern at CUHK, Hong Kong
 
-> Mar 16 - Sep 17 : Undergrad Project in NEU, China
+> Mar 16 - Sep 17 : Undergrad project at NEU, China
 
 > Aug 17 - Aug 17 : International student program at TUT, Japan
 
@@ -51,7 +51,7 @@ layout: default
 
 ## Award
 
-> Jun 18 Outstanding Project for Bachelor degree of NEU 
+> Jun 18 Outstanding Project for a Bachelor egree of NEU 
 
 > Dec 17 Excellent Graduate of Liaoning Province, China
 
@@ -68,12 +68,11 @@ Modeling
 
 ## Language
 
-Mandarin (Native), English (Basic), C, MATLAB, C++, Python, Java, LaTeX, HTML...
+Mandarin (Native), English (Basic), 
+Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, ...
 
 ## Another Look
--	I like jogging, swimming, criminal psychology, criminal investigation, reading, and cooking.
--	知世故，不世故。
--	红尘陌上，独自前行；但尽人事，莫问前程。
+-	I like jogging, swimming, criminal psychology, reading, and cooking.
 
-#### Last updated: June 2019
+#### Last updated: July 2019
 
