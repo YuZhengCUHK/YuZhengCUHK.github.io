@@ -51,7 +51,7 @@ layout: default
 
 ## Award
 
-> Jun 18 Outstanding Project for a Bachelor egree of NEU 
+> Jun 18 Outstanding Project for a Bachelor degree of NEU 
 
 > Dec 17 Excellent Graduate of Liaoning Province, China
 
