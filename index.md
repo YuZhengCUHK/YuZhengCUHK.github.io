@@ -29,7 +29,7 @@ layout: default
 
 > Aug 17 - Aug 17 : International student program at TUT, Japan
 
-> Dec 14 - Sep 15 : Student Assistant of Electronic Innovation Laboratory at NEU
+> Dec 14 - Sep 15 : Student assistant of electronic innovation laboratory at NEU
 
 ## External Reviewer
 
