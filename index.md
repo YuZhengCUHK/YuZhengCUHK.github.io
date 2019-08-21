@@ -64,7 +64,7 @@ Modeling (Teammates: Wen Fei, Zhuo Su)
 
 > Aug 16 Third Prize of National Undergraduate Information Security Competition (Teammates: Qing Yang, [Wei Song](https://github.com/TcSong), [Xingwen He](https://www.linkedin.com/in/兴文-何-5490a8192/))
 
-> Dec 15 Second Prize in Liaoning Province for Electronic Design Contest (Teammates: Wen Fei, [Gongjie Zhang](https://www.linkedin.com/in/gongjie-zhang-张功杰-25538216a/)
+> Dec 15 Second Prize in Liaoning Province for Electronic Design Contest (Teammates: [Gongjie Zhang](https://www.linkedin.com/in/gongjie-zhang-张功杰-25538216a/), Wen Fei）
 
 > Nov 15 National Scholarship of China
 
