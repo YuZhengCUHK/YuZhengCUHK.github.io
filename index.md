@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <img src="/assets/images/me.png" width="650"> |I am a 1<sup>st</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
+| <img src="/assets/images/me.png" width="650"> |I am a 2<sup>nd</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=zh-CN) for undergrad projects. | 
 |                 |My name is 郑宇/鄭宇. You can easily call me Janyew if you dont know Chinese.|
 
 ## Research Interest
