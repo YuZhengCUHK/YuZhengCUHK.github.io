@@ -38,6 +38,7 @@ layout: default
 >   18 : SecureComm
 
 ## Teaching Assistant
+> Sep 19 - Dec 19 : IERG4210 Web Programming and Security by Kehuan Zhang
 
 > Jan 19 - Apr 19 : IERG4130 Introduction to Cyber Security by [Kehuan Zhang](http://personal.ie.cuhk.edu.hk/~khzhang/)
 
