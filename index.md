@@ -45,6 +45,7 @@ layout: default
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 ## Course Enrolled
+>19 F: CSCI5170 Computational Complexity, ENGG 5105 Computer and Network Security, IERG5310 Security & Privacy in Cyber Systems 
 
 >18 F: IERG5130 Probability Models of Learning, ENGG5383 Applied Cryptography
 
