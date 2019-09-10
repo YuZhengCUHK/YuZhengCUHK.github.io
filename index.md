@@ -73,11 +73,11 @@ Modeling (Teammates: Wen Fei, Zhuo Su)
 ## Language
 
 Mandarin (Native), English (Basic), 
-Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, ...
+Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, CSS, JavaScript, ...
 
 ## Another Look
 -	I like jogging, swimming, criminal psychology, reading, cooking, ...
 -   I learned guitar, Chinese calligraphy, pencil sketch, basketball (point guard), ... when I was a child.
 
-#### Last updated: August 2019
+#### Last updated: Sep 2019
 
