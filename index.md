@@ -20,7 +20,7 @@ layout: default
 *  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent.
 
 ## Internship & Experience
-> Nov 19 - Jan 20 : Visiting students at Shandong University advised by [Prof. Qiuliang Xu](http://www.infosec.sdu.edu.cn/info/1043/1118.htm)
+> Nov 19 - Jan 20 : Visiting students advised by [Prof. Qiuliang Xu](http://www.infosec.sdu.edu.cn/info/1043/1118.htm) at Shandong University
 
 > Jul 18 - Aug 18 : Summer workshop of computing at NUS, Singapore
 
@@ -80,5 +80,5 @@ Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, La
 -	I like jogging, swimming, criminal psychology, reading, cooking (on the way :-）), ...
 -   I learned guitar, Chinese calligraphy, pencil sketch, basketball (point guard) when I was a child, and got driver license when I became an adult in 2014.
 
-#### Last updated: Nov 2019
+#### Last updated: Nov	 2019
 
