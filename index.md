@@ -54,16 +54,15 @@ layout: default
 
 > Dec 17 Excellent Graduate of Liaoning Province, China
 
-> Apr 17 Honorable Mention of American Mathematical Contest in 
-Modeling (Teammates: Wen Fei, Zhuo Su)
+> Apr 17 Honorable Mention of American Mathematical Contest in Modeling (Teammates: Wen Fei, Zhuo Su)
 
 > Dec 16 Second Prize of National Undergraduate Mathematical Contest in Modeling (Teammates: Wen Fei, Zhuo Su)
 
 > Nov 16 National Scholarship of China (Amount: 8000 Chinese yuan)
 
-> Aug 16 Third Prize of National Undergraduate Information Security Competition (Teammates: Qing Yang, [Wei Song](https://tcsong.github.io/), [Xingwen He](https://www.linkedin.com/in/兴文-何-5490a8192/))
+> Aug 16 Third Prize of National Undergraduate Information Security Competition (Teammates: Qing Yang, Wei Song, Xingwen He)
 
-> Dec 15 Second Prize in Liaoning Province for Electronic Design Contest (Teammates: [Gongjie Zhang](https://www.linkedin.com/in/gongjie-zhang-张功杰-25538216a/), Wen Fei）
+> Dec 15 Second Prize in Liaoning Province for Electronic Design Contest (Teammates: Gongjie Zhang, Wen Fei）
 
 > Nov 15 National Scholarship of China
 
