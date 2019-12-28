@@ -29,7 +29,7 @@ Videos via Images.”
 ## Internship & Experience
 > Nov 19 - Dec 19 : Visiting student advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
 
-> Jul 18 - Aug 18 : Summer workshop of computing at NUS
+> Jul 18 - Aug 18 : Summer workshop of computing at NUS, Singapore
 
 > Mar 18 - May 18 : Research intern advised by Sherman S. M Chow at CUHK
 
