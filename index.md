@@ -13,7 +13,7 @@ layout: default
 |  GAN         | image search      |       |
 |              |                   |       |
 
-## Preprint
+## Manuscript
 
 * **Yu Zheng**, Sherman S. M. Chow, Minxin Du, Chong Fu. “Search over Encrypted
 Videos via Images.” 
