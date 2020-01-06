@@ -20,7 +20,7 @@ Videos via Images.”
 
 ## Publication
 
-*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_CCF B, JCR1 5.52_).
+*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_CCF B, JCR Q1 5.52_).
 
 *  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
