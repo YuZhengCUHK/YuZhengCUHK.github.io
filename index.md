@@ -18,9 +18,9 @@ layout: default
 * **Yu Zheng**, Sherman S. M. Chow, Minxin Du, Chong Fu. “Search over Encrypted
 Videos via Images.” 
 
-*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” Under review on Information Sciences.
-
 ## Publication
+
+*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_CCF B, SCI I_).
 
 *  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
