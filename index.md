@@ -79,7 +79,7 @@ Videos via Images.”
 
 ## Language
 
-Mandarin (Native), English (Basic), 
+Mandarin (Native), English (Fluent), 
 Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, CSS, JavaScript, ...
 
 ## Another Look
