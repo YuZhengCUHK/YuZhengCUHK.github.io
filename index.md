@@ -15,16 +15,17 @@ layout: default
 
 ## Manuscript
 
-* **Yu Zheng**, Sherman S. M. Chow, Minxin Du, Chong Fu. “Search over Encrypted
-Videos via Images.” 
+* **Yu Zheng**, Sherman S. M. Chow<sup>\*</sup>, Minxin Du, Chong Fu. “Search over Encrypted Videos via Images.” 
 
 ## Publication
 
-*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1, IF:5.52_).
+*  Wei Song, **Yu Zheng**, Chong Fu<sup>\*</sup>, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1, IF:5.52_).
 
-*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
+*  Chong Fu<sup>\*</sup>, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-*  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
+*  Chong Fu<sup>\*</sup>, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
+
+(<sup>\*</sup> means Yu's supervisor in this paper.)
 
 ## Internship & Experience
 > Nov 19 - Dec 19 : Visiting student advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
