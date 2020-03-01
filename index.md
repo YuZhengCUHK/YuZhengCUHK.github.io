@@ -31,7 +31,7 @@ layout: default
 
 > Jul 18 - Aug 18 : Summer workshop of computing at NUS, Singapore
 
-> Mar 18 - May 18 : Research intern advised by Sherman S. M Chow at CUHK
+> Mar 18 - May 18 : Research intern advised by Sherman S. M. Chow at CUHK
 
 > Aug 17 - Aug 17 : International student program at TUT, Japan
 
