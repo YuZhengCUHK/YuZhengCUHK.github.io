@@ -7,11 +7,12 @@ layout: default
 
 ## Research Interest
 
-| Machine Learning | Searchable Encryption  | Blockchain |
-|:-------------|:------------------|:------|
-|  privacy     | multimedia        | ring signatures|
-|  GAN         | image search      |       |
-|              |                   |       |
+| Machine Learning | Searchable Encryption  | 
+|:-------------|:------------------|
+|  privacy     | multimedia        | 
+|  federated learning | image search      | 
+|  attack   |                   |  
+
 
 ## Manuscript
 
