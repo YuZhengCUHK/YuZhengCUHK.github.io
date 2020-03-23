@@ -51,7 +51,7 @@ layout: default
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 ## Course Enrolled
->20 S: MMAT5110 Topics in Number Theory
+>20 S: MMAT5110 Topics in Number Theory, Abstract Algebra (NKU online)
 
 >19 F: CSCI5170 Computational Complexity, ENGG5105 Computer and Network Security, IERG5310 Security & Privacy in Cyber Systems 
 
