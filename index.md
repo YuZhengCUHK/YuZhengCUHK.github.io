@@ -16,7 +16,7 @@ layout: default
 
 ## Manuscript
 
-* **Yu Zheng**, Sherman S. M. Chow, Minxin Du, Chong Fu. “Search over Encrypted Videos via Images.” 
+
 
 ## Publication
 
