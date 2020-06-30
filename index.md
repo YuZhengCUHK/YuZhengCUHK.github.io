@@ -14,11 +14,9 @@ layout: default
 |  attack   |                   |  
 
 
-## Manuscript
+## Publication 
 
-
-
-## Publication
+### From Undergrad work
 
 *  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1, IF:5.52_).
 
