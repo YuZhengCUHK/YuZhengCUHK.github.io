@@ -33,6 +33,8 @@ layout: default
 
 > Aug 17 - Aug 17 : International student program at TUT, Japan
 
+> Dec 15 - Jun 18 : Undergrad research project advised by Chong Fu at NEU
+
 ## External Reviewer
 
 >   19 : Crypto, ISC, ESORICS, SecureComm, IEEE-TIFS, AsiaCCS, ICICS, ...
