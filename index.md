@@ -42,7 +42,8 @@ layout: default
 ## Research Tutor
 
 > Sep 19 - Apr 20 : IEMS5910/5920 Advanced Research and Development Project <br>
-Student: Xiang Li, Topic: Mitigating Data Leakage under GAN with Differential Privacy via Shuffled Model
+Student: Xiang Li, Msc(CUHK)<br>
+Topic: Mitigating Data Leakage under GAN with Differential Privacy via Shuffled Model
 
 ## Teaching Assistant
 > Jan 20 - Apr 20 : IERG4130 Introduction to Cyber Security by Kehuan Zhang
