@@ -41,7 +41,7 @@ layout: default
 
 ## Research Tutor
 
-> Sep 19 - Apr 20 : IEMS5910/5920 Advanced Research and Development Project 
+> Sep 19 - Apr 20 : IEMS5910/5920 Advanced Research and Development Project <br>
 Student: Xiang Li, Topic: Mitigating Data Leakage under GAN with Differential Privacy via Shuffled Model
 
 ## Teaching Assistant
