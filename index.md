@@ -14,15 +14,15 @@ layout: default
 |  attack   |                   |  
 
 
-## Publication 
+## Publication (\* supervision)
 
-### Chaotic Encryption (From undergrad work)
+### Chaotic Encryption 
 
-*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:6.77;CCF-B_).
+*  Wei Song, **Yu Zheng**, Chong Fu\*, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:6.77;CCF-B_).
 
-*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
+*  Chong Fu\*, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-*  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
+*  Chong Fu\*, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
 
 ## Internship & Experience
 > Nov 19 - Dec 19 : Visiting student advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
