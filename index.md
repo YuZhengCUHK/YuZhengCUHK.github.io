@@ -46,7 +46,7 @@ layout: default
 ## Research Helper
 
 > Sep 19 - Apr 20 : IEMS5910/5920 Advanced Research and Development Project <br>
-Student: Xiang Li, Msc(CUHK)<br>
+Student: Xiang Li, MSc(CUHK)<br>
 Topic: Privacy-Preserving Deep Learning
 
 ## Teaching Assistant
