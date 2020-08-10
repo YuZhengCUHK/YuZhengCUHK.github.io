@@ -27,15 +27,15 @@ layout: default
 *  Chong Fu\*, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
 
 ## Internship & Experience
-> Nov 19 - Dec 19 : Visiting student advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
+> Nov 19 - Dec 19 : Visiting Student Advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
 
-> Jul 18 - Aug 18 : Summer workshop of computing at NUS, Singapore
+> Jul 18 - Aug 18 : Summer Workshop of Computing at NUS, Singapore
 
-> Mar 18 - May 18 : Research intern advised by Sherman S. M. Chow at CUHK
+> Mar 18 - May 18 : Research Intern Advised by Sherman S. M. Chow at CUHK
 
-> Aug 17 - Aug 17 : International student program at TUT, Japan
+> Aug 17 - Aug 17 : International Student Program at TUT, Japan
 
-> Dec 15 - Jun 18 : Undergrad research project advised by Chong Fu at NEU
+> Dec 15 - Jun 18 : Undergrad Research Project Advised by Chong Fu at NEU
 
 ## External Reviewer
 
@@ -43,11 +43,11 @@ layout: default
 
 >   18 : SecureComm
 
-## Research Tutor
+## Research Helper
 
 > Sep 19 - Apr 20 : IEMS5910/5920 Advanced Research and Development Project <br>
 Student: Xiang Li, Msc(CUHK)<br>
-Topic: Mitigating Data Leakage under GAN with Differential Privacy via Shuffled Model
+Topic: Privacy-Preserving Deep Learning
 
 ## Teaching Assistant
 > Jan 20 - Apr 20 : IERG4130 Introduction to Cyber Security by Kehuan Zhang
