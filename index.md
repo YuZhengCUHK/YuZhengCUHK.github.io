@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <img src="/assets/images/me.png" width="650"> |I am a 2<sup>nd</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](http://www.cse.neu.edu.cn/2019/0314/c6641a157526/page.htm) for undergrad projects. | 
+| <img src="/assets/images/me.png" width="650"> |I am a 3<sup>rd</sup> year _Ph.D._ student ([CV](https://www.dropbox.com/s/6r26jvh28hkrmuy/resume.pdf?dl=0)) in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from School of Computer Science and Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](http://www.cse.neu.edu.cn/2019/0314/c6641a157526/page.htm) for undergrad projects. | 
 |                 |My name is 郑宇/鄭宇. You can easily call me Janyew if you dunno Chinese.|
 
 ## Research Interest
@@ -16,15 +16,17 @@ layout: default
 
 ## Publication 
 
+### Privacy-Preserving Deep Learning
+
+### Searchable Encryption
+
 ### Chaotic Encryption 
 
-(\* supervision)
+*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:6.77;CCF-B_).
 
-*  Wei Song, **Yu Zheng**, Chong Fu\*, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:6.77;CCF-B_).
+*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-*  Chong Fu\*, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
-
-*  Chong Fu\*, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
+*  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
 
 ## Internship & Experience
 > Nov 19 - Dec 19 : Visiting Student Advised by [Prof. Qiuliang Xu](http://faculty.sdu.edu.cn/xuqiuliang/zh_CN/index/407159/list/index.htm) at SDU, China
@@ -59,7 +61,9 @@ Topic: Privacy-Preserving Deep Learning
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 ## Course Enrolled
->20 S: MMAT5110 Topics in Number Theory, Abstract Algebra (NKU online)
+>20 F: CSCI 5440 Theory of Cryptography
+
+>20 S: MMAT5110 Topics in Number Theory, Abstract Algebra (Nankai Univ online)
 
 >19 F: CSCI5170 Computational Complexity, ENGG5105 Computer and Network Security, IERG5310 Security & Privacy in Cyber Systems 
 
@@ -94,5 +98,5 @@ Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, La
 -	I like jogging, swimming, criminal psychology, reading, cooking (on the way :-）), ...
 -   I learned guitar, Chinese calligraphy, pencil sketch, basketball (point guard) when I was a child, and got driver license when I became an adult in 2014.
 
-#### Last updated: Nov	 2019
+#### Last updated: Aug 2020
 
