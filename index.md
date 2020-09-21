@@ -61,7 +61,7 @@ Topic: Privacy-Preserving Deep Learning
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 ## Course Enrolled
->20 F: CSCI 5440 Theory of Cryptography
+>20 F: CSCI5440 Theory of Cryptography
 
 >20 S: MMAT5110 Topics in Number Theory, Abstract Algebra (Nankai Univ online)
 
