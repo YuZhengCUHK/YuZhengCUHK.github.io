@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <img src="/assets/images/me.png" width="650"> |I am a 3<sup>rd</sup> year _Ph.D._ candidate in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from Department of Communication Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en&oi=ao) for undergrad projects. | 
+| <img src="/assets/images/me.png" width="650"> |I am a _Ph.D._ candidate in the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Sherman S. M. Chow](http://staff.ie.cuhk.edu.hk/~smchow/). Before CUHK, I received my _B.Eng._ degree from Department of Communication Engineering, Northeastern University (NEU) in 2018, advised by [Prof. Chong Fu](https://scholar.google.com/citations?user=xq76xEMAAAAJ&hl=en&oi=ao) for undergrad projects. | 
 |                 |My name is 郑宇/鄭宇. You can easily call me Janyew if you dunno Chinese.|
 
 ## Research Interest
