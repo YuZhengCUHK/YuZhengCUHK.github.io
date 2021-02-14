@@ -41,6 +41,8 @@ layout: default
 
 ## External Reviewer
 
+>   20 : WWW
+
 >   19 : Crypto, ISC, ESORICS, SecureComm, IEEE-TIFS, AsiaCCS, ICICS, ...
 
 >   18 : SecureComm
@@ -52,6 +54,8 @@ Student: Xiang Li, MSc(CUHK)<br>
 Topic: Privacy-Preserving Deep Learning
 
 ## Teaching Assistant
+> Jan 21 - Apr 21 : IERG4210 Web Programming and Security by Sherman Chow
+
 > Sep 20 - Dec 20 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 > Jan 20 - Apr 20 : IERG4130 Introduction to Cyber Security by Kehuan Zhang
@@ -63,6 +67,8 @@ Topic: Privacy-Preserving Deep Learning
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
 ## Course Enrolled
+>21 S: CS860 Algorithms for Private Data Analysis (Waterloo Univ online)
+
 >20 F: CSCI5440 Theory of Cryptography, ENGG5501 Foundations of Optimization (audit)
 
 >20 S: MMAT5110 Topics in Number Theory, Abstract Algebra (Nankai Univ online)
@@ -74,6 +80,7 @@ Topic: Privacy-Preserving Deep Learning
 >18 F: IERG5130 Probability Models of Learning, ENGG5383 Applied Cryptography
 
 ## Award
+> Apr 18 Postgraduate Scholarship (4-Year) of CUHK
 
 > Jun 18 Outstanding Project for a Bachelor degree of NEU 
 
