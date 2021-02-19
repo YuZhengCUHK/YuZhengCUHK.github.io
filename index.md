@@ -22,11 +22,11 @@ layout: default
 
 ### Chaotic Encryption 
 
-*  Wei Song, **Yu Zheng**, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:5.9;CCF-B_).
+*  Wei Song, <u>Yu Zheng</u>, Chong Fu, Pufang Shan.“A Novel Batch Image Encryption Algorithm Using Parallel Computing.” In 2020 Information Sciences (_JCR Q1,IF:5.9;CCF-B_).
 
-*  Chong Fu, **Yu Zheng**, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
+*  Chong Fu, <u>Yu Zheng</u>, Min Chen, and Zhankao Wen. “A Color Image Encryption Algorithm using a New 1-D Chaotic Map.” In 2017 International Conference on Communication Technology (ICCT), _Best Paper Award_.
 
-*  Chong Fu, **Yu Zheng**, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
+*  Chong Fu, <u>Yu Zheng</u>, and Xingwen He. “A Chaotic Image Encryption Method with Key Stream is Associated with Plaintext.” Chinese Patent Number, 201710106798.1.
 
 ## Internship & Experience
 > Nov 19 - Dec 19 : Visiting Student Advised by [Prof. Qiuliang Xu](https://www.iacr.org/cryptodb/data/author.php?authorkey=7332) at SDU, China
@@ -66,7 +66,7 @@ Topic: Privacy-Preserving Deep Learning
 
 > Sep 18 - Dec 18 : IERG1080 Electronic Circuit Design Laboratory by Marco Ho
 
-## Course Enrolled
+## Course 
 >21 S: CS860 Algorithms for Private Data Analysis (Waterloo Univ online)
 
 >20 F: CSCI5440 Theory of Cryptography, ENGG5501 Foundations of Optimization (audit)
@@ -100,8 +100,8 @@ Topic: Privacy-Preserving Deep Learning
 
 ## Language
 
-Mandarin (Native), English (Fluent), 
-Shandong-dialect (Native), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, CSS, JavaScript, ...
+Simplified Chinese (Native), English (Fluent), 
+Shandong-dialect (Native), Northeastern Mandarin (Fluent), Cantonese (Limited), C, MATLAB, C++, Python, Java, LaTeX, HTML, CSS, JavaScript, ...
 
 ## Another Look
 -	I like jogging, swimming, criminal psychology, reading, cooking (on the way :-）), ...
